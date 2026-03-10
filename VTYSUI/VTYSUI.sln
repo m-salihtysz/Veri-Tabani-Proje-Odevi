@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTYSUI", "VTYSUI\VTYSUI.csproj", "{239E8D1B-869B-4D8C-84A9-73DCD13225E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{239E8D1B-869B-4D8C-84A9-73DCD13225E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239E8D1B-869B-4D8C-84A9-73DCD13225E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239E8D1B-869B-4D8C-84A9-73DCD13225E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239E8D1B-869B-4D8C-84A9-73DCD13225E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F1E4825-EB4D-41AB-932F-205E77B55A75}
+	EndGlobalSection
+EndGlobal
